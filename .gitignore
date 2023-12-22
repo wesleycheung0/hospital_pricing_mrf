@@ -158,3 +158,24 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+data/hospitcal_pricing/.DS_Store
+data/hospitcal_pricing/13-1624070_Lenox Hill Hospital_StandardCharges.json
+data/hospitcal_pricing/131924236_memorial-hospital-for-cancer-and-allied-diseases-nyc_standardcharges_test.json
+data/hospitcal_pricing/132655001_Bellevue Hospital Center_standardcharges.csv.xls
+data/hospitcal_pricing/132655001_Coney Island Hospital_standardcharges.csv.xls
+data/hospitcal_pricing/132655001_Elmhurst Hospital Center_standardcharges.csv.xls
+data/hospitcal_pricing/132655001_Harlem Hospital Center_standardcharges.csv.xls
+data/hospitcal_pricing/132655001_Jacobi Medical Center_standardcharges.csv.xls
+data/hospitcal_pricing/132655001_Kings County Hospital Center_standardcharges.csv.xls
+data/hospitcal_pricing/132655001_Lincoln Medical Center_standardcharges.csv.xls
+data/hospitcal_pricing/132655001_Metropolitan Hospital Center_standardcharges.csv.xls
+data/hospitcal_pricing/132655001_North Central Bronx Hospital_standardcharges.csv.xls
+data/hospitcal_pricing/132655001_Queens Hospital Center_standardcharges.csv.xls
+data/hospitcal_pricing/132655001_Woodhull Medical Center_standardcharges.csv.xls
+data/hospitcal_pricing/132997301_mount-sinai-morningside_standardcharges.txt
+data/hospitcal_pricing/133746997_GracieSquareHospital_standardcharges.xlsx
+data/hospitcal_pricing/133957095_NewYorkPresbyterianHospital_standardcharges.json
+data/hospitcal_pricing/HSSStandardCharges.json
+data/hospitcal_pricing/NYU Langone Hospital—Brooklyn standard charges.csv
+data/hospitcal_pricing/NYU Langone Orthopedic Hospital standard charges.csv
+data/hospitcal_pricing/NYU Langone Tisch Hospital standard charges.csv
